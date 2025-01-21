@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi! 👋
 
-<!--
-**jogonba2/jogonba2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an NLP researcher deeply passionate about exploring the limitless possibilities of natural language processing. My PhD focused on summarization and attentional models, but my work spans a wide range of NLP topics, including: 📚 [Zero- and few-shot] Text Classification, 😊 Sentiment and Emotion Analysis, 🌟 Figurative Language Understanding, 🗣️ Dialogue Systems, 📄 Information Extraction, and 🤖 Machine-Generated Text Detection.
 
-Here are some ideas to get you started:
+Since 2016, my research has centered on the intersection of deep learning and NLP, striving to develop efficient solutions for complex language challenges. I'm also dedicated to advancing NLP for Spanish and co-official languages in Spain, working on initiatives that bridge linguistic and technological gaps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of my works with public source code and (a few) publications during these years:
+
+| Work                                                            | Repo                                                                              | Paper                                                                                            | Journal/Conference                  |
+|-----------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------|
+| BERT for tweets before HuggingFace's era                        | [Link](https://github.com/jogonba2/TWilBert)                                      | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220316180)                  | Neurocomputing                      |
+| Hierarchical dual LSTM encoders for summarization               | [Link](https://github.com/jogonba2/SHAN)                                          | [Link](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179011) | Intelligent & Fuzzy Systems         |
+| Hierarchical dual Transformer encoders for summarization        | [Link](https://github.com/jogonba2/SHTE)                                          | [Link](https://dl.acm.org/doi/abs/10.3233/JIFS-179901)                                           | Intelligent & Fuzzy Systems         |
+| Spanish and Catalan datasets for summarization                  | [Link](https://github.com/jogonba2/DACSA)                                         | [Link](https://aclanthology.org/2022.naacl-main.434/)                                            | ACL                                 |
+| Source summary entity aggregations in abstractive summarization | [Link](https://github.com/jogonba2/ESA)                                           | [Link](https://aclanthology.org/2022.coling-1.526/)                                              | COLING                              |
+| Transformer-based contextualization for irony detection         | [Link](https://github.com/jogonba2/TE-TextClassification)                         | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0306457320300200)                  | Information Processing & Management |
+| LLMixtic, winning system at SemEval 2024 Task 8                 | [Link](https://github.com/jogonba2/llmixtic)                                      | [Link](https://aclanthology.org/2024.semeval-1.17/)                                              | Proceedings of SemEval 2024         |
+| [MinGRU](https://arxiv.org/html/2410.01201v1) implementation    | [Link](https://github.com/jogonba2/transformers)                                  | N/A                                                                                              | N/A                                 |
+| [ProxyTuning](https://arxiv.org/abs/2401.08565) implementation                               | [Link](https://colab.research.google.com/drive/1obA55l1ZoABP6nzgxyzgCaHeg_etdbMQ) | N/A                                                                                              | N/A                                 |
+| Copy mechanism for Transformers                                 | [Link](https://discuss.huggingface.co/t/copying-mechanism-for-transformer/5025/8) | N/A                                                                                              | N/A                                 |
+
+Over the years, I've been an active participant in shared tasks across a variety of NLP domains. I was part of the winning teams in several competitions, including TASS [2017](https://ceur-ws.org/Vol-1896/p2_elirf_tass2017.pdf) to [2020](https://ceur-ws.org/Vol-2664/tass_paper2.pdf)), [IroSVA](https://ceur-ws.org/Vol-2421/IroSvA_paper_4.pdf), [COSET](https://ceur-ws.org/Vol-1881/COSET_paper_7.pdf), and [SemEval 2024 Task 8](https://aclanthology.org/2024.semeval-1.17/). I’ve also achieved strong results in other SemEval challenges, such as [2017](https://aclanthology.org/S17-2121/), [2018,1](https://aclanthology.org/S18-1159/), [2018,2](https://aclanthology.org/S18-1092/), or [2019](https://aclanthology.org/S19-2031/)
+
+In 2023, I began organizing shared tasks at IberLEF, focusing on machine-generated text detection and attribution, such as [AuTexTification](https://rua.ua.es/dspace/bitstream/10045/137177/1/PLN_71_21.pdf), [IberAuTexTification](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6628/4020), and [MIMIC](https://sites.google.com/view/mimic-2025/home). I’m also on the [program committee](https://genai-content-detection.gitlab.io/organizers/) for the GenAI content detection task at COLING 2025.
+
+Although I often forget to mention it, I’m proud to share that my PhD thesis was awarded cum laude and received the [best NLP thesis award](http://www.sepln.org/en/research/sepln-award) from the Spanish Society for Natural Language Processing.
+
+Outside of research, I’m passionate about teaching. I currently teach courses on information retrieval, intelligent agents, and programming at Universidad Europea, as well as advanced machine learning techniques in the Master’s in Big Data program at Universidad de Barcelona.
+
+To know more about me, feel free to reach me in [Linkedin](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-gonz%C3%A1lez-a45a38339/), [Google Scholar](https://scholar.google.com/citations?user=hI5WY5IAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jose-Gonzalez-Barba), and [HuggingFace](https://huggingface.co/jogonba2)!
+
