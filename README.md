@@ -61,4 +61,4 @@ Here are some of my works with public source code and (a few) publications durin
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogonba2&hide=TeX&layout=compact)
 
 ## Reach me! 🤙
-I'm looking forward to collaborate in any NLP field or toolkit. Feel free to reach me through [Linkedin](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-gonz%C3%A1lez-a45a38339/), [Google Scholar](https://scholar.google.com/citations?user=hI5WY5IAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jose-Gonzalez-Barba), and [HuggingFace](https://huggingface.co/jogonba2)!
+I'm looking forward to collaborate in any NLP field. Feel free to reach me through [Linkedin](https://www.linkedin.com/in/jos%C3%A9-%C3%A1ngel-gonz%C3%A1lez-a45a38339/), [Google Scholar](https://scholar.google.com/citations?user=hI5WY5IAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Jose-Gonzalez-Barba), and [HuggingFace](https://huggingface.co/jogonba2)!
