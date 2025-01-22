@@ -12,7 +12,7 @@ In 2023, I began organizing a line of shared tasks at the Iberian Languages Eval
 
 Outside of research, I’m passionate about teaching. I currently teach courses on information retrieval, intelligent agents, and programming at Universidad Europea, as well as advanced machine learning techniques in the Master’s in Big Data program at Universidad de Barcelona. Besides, I am a recurrent invited speaker to the Master's in Artificial Intelligence of the UPV to give a [talk about language modeling and embeddings](https://drive.google.com/file/d/11hu7c4ii-cgSB5SrniTB8l1pLLeaUUaQ/view?usp=sharing).
 
-Although I often forget to mention it, I’m proud to share that my PhD thesis was awarded cum laude and received the [best NLP thesis award](http://www.sepln.org/en/research/sepln-award) from the Spanish Society for Natural Language Processing.
+I'm also proud to share that my PhD thesis was awarded cum laude and received the [best NLP thesis award](http://www.sepln.org/en/research/sepln-award) from the Spanish Society for Natural Language Processing.
 
 ## Works 👨🏻‍🔧
 
