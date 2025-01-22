@@ -1,6 +1,6 @@
 ## Bio 🌱
 
-Hi!👋😊✌️
+Hi!👋😊
 
 I'm José, an NLP researcher deeply passionate about exploring the limitless possibilities of natural language processing. My PhD focused on summarization and attention-based models, but my work spans a wide range of NLP topics, including: 📚 [Zero- and few-shot] Text Classification, 😊 Sentiment and Emotion Analysis, 🌟 Figurative Language Understanding, 🗣️ Dialogue Systems, 📄 Information Extraction, or 🤖 Machine-Generated Text Detection.
 
