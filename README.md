@@ -46,6 +46,11 @@ Here are some of my works with public source code and (a few) publications durin
 ![SkLearn](https://img.shields.io/badge/-Scikitlearn-FDEE21?logo=scikitlearn&logoColor=black&style=social)&nbsp;&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?logo=pandas&style=social)&nbsp;&nbsp;
 
+
+![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&style=social)&nbsp;&nbsp;
+![LangGraph](https://img.shields.io/badge/LangGraph-ffffff?logo=langchain&style=social)&nbsp;&nbsp;
+![LLamaIndex](https://img.shields.io/badge/LLamaIndex-ffffff?logo=ollama&style=social)&nbsp;&nbsp;
+
 ![Triton](https://img.shields.io/badge/-Triton-FF4BB?logo=nvidia&style=social)&nbsp;&nbsp;
 ![VLLM](https://img.shields.io/badge/-VLLM-FF4BB?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAADFElEQVR4nOyY324STxTHD8t2aWdhl8CP5gf0t5QfpXc+hU3UaHwGo60x8dJX8QV8hCbeaE2MetErE40pFBv/1GgLbaUWhF0KO2ug1iLsnNmh0PaC7+XMmd1PzpyZc87IjuPARZJ03gC9GgPxNAY6FusonQPQlzI8fG5v7Zmus/JZomwfwPIb+/UmhAMNf6sCMHVuQBUTlt/SVxsO7WyVoZuEEFfLkQPVGrCSpys5p9E6GUxpJiH6WQNZTXiWp0/WHLPZM+PMT1NZdv/1SICaNrx8Tx+/c6qWy+y/qhXRJllrhw+U24JHq/b3GtMgrddZAeQO1Ci9aO6uevk3mb8vKaGewac5jKYNFLYI+UcAyE+M6uYDAMoFOgheT85e6h6hFDZ2sCWKZP8f80kS8/5zmZBDaSV+mUvjqg+70H2a+pUMWaEgc7+YNzXJ3gXwDQC0ts3xa0qvq6oqDCSHMkri2gBAuS1OuZeJHE5OMo8YlsvU+Xvg8wvR1A/h0x5mQOSWEeWcayaQX50JzNwUAioUmTn8SJ39wgKIk+1J5pZQOVAocQLI0JgpzBOQX/1PSV4VACriDnIy0ZaiKIMDtZ00t+QxkqoWfN3HDMKBZiLCoeEDycGUkvDkpPUixf1jaFjG8ArUcdKiFyetb3MO/Cy7BhID8uikfBGfd7IxZskhBvTbSejFXa7BThX7QmyqEdWx+1AMqO2k+AJiUCjyDry3/RLoOvDslh9SAAkA4dkNDyDJR7PTgJQcgwAdZzeXqCwewH4dW5hQrXDIpeM5LVAnu93oH18fXgAJd64kc7v/TiqUOAGUDjdGBeRXZ5T4lV4gNIAmJDsdE6j1hHt7kl3qXvXtB1Tcep0/MjRTQ2vW0wK176TkyXHL82pWvOkZAlCPk3gpzJmLcmrWIQDJqnHkJEqhUMIsNaWZiEwIfXzA9yEydwdA2iz39+1/KaWZeI8xNCA5OKvEFz6WA7iZoZ8VUCeSFj9XgqiJk43ZXkqObvlO83D+s1arVrCyg5ApXXd/BxoJ0Cg0fhbmaQzE04UD+hUAAP//Z8foQQUr1j8AAAAASUVORK5CYII=&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-docker-black?logo=docker&style=social)&nbsp;&nbsp;
